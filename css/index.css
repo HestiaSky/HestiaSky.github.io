@@ -468,7 +468,7 @@ blockquote p {
   transition: all 0.2s ease-in-out;
 }
 .page article a:hover {
-  color: #c62641;
+  color: #4169e1;
 }
 .page article .highlight {
   overflow: auto;
